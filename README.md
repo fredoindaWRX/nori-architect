@@ -1,3 +1,20 @@
+# NORI Architect
+
+NORI Architect is a development fork of [CrewAI](https://github.com/crewAIInc/crewAI), used as a foundation for NORI's orchestration graph and role system.
+
+This repository is part of NORI. The CrewAI documentation below describes the upstream framework.
+
+## Related projects
+
+- [NORI overview](https://github.com/fredoindaWRX/nori)
+- [Nori Stream Graphics](https://github.com/fredoindaWRX/nori-stream-graphics): free animated OBS scene graphics and setup instructions.
+
+## Upstream attribution
+
+CrewAI's documentation and [MIT license](LICENSE) are retained. Links in the upstream documentation may point to CrewAI's services, examples, and community.
+
+## CrewAI documentation
+
 <p align="center">
   <a href="https://github.com/crewAIInc/crewAI">
     <img src="docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">
